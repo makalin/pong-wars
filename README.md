@@ -35,6 +35,7 @@ If you've created an alternate version of Pong Wars and would like to share it, 
 
 The alternate versions are listed below in alphabetical order:
 
+- [Amiga 68k Assembly](https://github.com/makalin/pong-wars)
 - [ASCII Python](https://github.com/flash1293/ascii-pong-wars)
 - [Atari 2600](https://forums.atariage.com/topic/360475-pong-wars-atari-2600)
 - [BBC Micro Bot](https://mastodon.me.uk/@bbcmicrobot/111829277042377169)
